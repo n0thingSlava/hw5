@@ -9,7 +9,7 @@ public class Main {
 
 
         }
-        int[] light = {1, 2, 3};
+        int[] light = new int[3];
         light[0] = 1;
         light[1] = 2;
         light[2] = 3;
